@@ -1,2 +1,5 @@
 # Ignoring pdf documents
 *.pdf
+
+# Ignore database
+database/
