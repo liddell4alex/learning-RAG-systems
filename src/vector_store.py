@@ -1,6 +1,10 @@
 # Para la base de datos vectorial; crearla o abrirla y administrarla
 
+from pathlib import Path
 import chromadb
+
+carpeta = Path("database")
+carpeta.mkdir(exist_ok=True)
 
 # Crear o abrir colección (db)
 def get_collection():
