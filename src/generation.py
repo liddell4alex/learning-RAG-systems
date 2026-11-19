@@ -14,7 +14,7 @@ def generate_answer(context, question):
     2. Do not use external knowledge or assumptions.
     3. If the context does not contain enough information, explicitly say so.
     4. Do not invent facts or complete missing information.
-    5. Keep your answers clear and concise. 
+    5. Keep your answers clear and concise.
     """
     user_prompt = f"""
     CONTEXT:
