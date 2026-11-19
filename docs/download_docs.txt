@@ -1,0 +1,5 @@
+A course in machine learning: http://ciml.info/dl/v0_99/ciml-v0_99-all.pdf
+Introduction to Statistical Learning: https://www.stat.berkeley.edu/~rabbee/s154/ISLR_First_Printing.pdf
+Neural Network and Deep Learning: https://jingyuexing.github.io/Ebook/Machine_Learning/Neural%20Networks%20and%20Deep%20Learning-eng.pdf
+Dive into Deep Learning: https://deeplearning.cs.cmu.edu/F20/document/readings/d2l-en.pdf
+Principles of Data Science: https://assets.openstax.org/oscms-prodcms/media/documents/Principles-of-Data-Science-WEB.pdf
