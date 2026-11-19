@@ -16,7 +16,7 @@ while True:
         print("\nBye :D")
         break
 
-    ress = retrieve(collection, model, question, n_result=10000, max_distance=0.50)
+    ress = retrieve(collection, model, question, n_result=10, max_distance=0.50)
     
     # Entra si no se encontró ningún resultado 
     if not ress["documents"][0]:
