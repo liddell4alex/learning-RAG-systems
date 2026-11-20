@@ -54,4 +54,6 @@ python main.py
 
 ### Example
 
-![RAG running example](demo.gif)
+<p align="center">
+  <img src="demo.gif" width="100%" alt="RAG Demo">
+</p>
